@@ -1,4 +1,4 @@
-# 👋 Hey There! I am Farasat Ali
+# 👋 Hey There! I am Fatima Azeemi
 
 <br />
 
@@ -21,16 +21,16 @@
 ## ✌ Things that will help you know me better:
   
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 I am passionate and open to learning and discussing new technologies and frameworks!
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😎 I am a graduate and pursuing my goals and dreams.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😎 I am a undergraduate and pursuing my goals and dreams.
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙ I am interested in topics related to:
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Full Stack Web Development (MERN, Next.js & AWS)
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Artificial Intelligence, Deep Learning & LLMs
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Blockchain & Quantum Computing Enthusiast
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I am currently working on multiple technologies like MERN Stack, NextJs, Rust, NestJs, Web3, and Cloud.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I am currently learning multiple technologies like MERN Stack, NextJs, Generative AI, ML..
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 In my free time, I love to:
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Learn about forex and do analysis.
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Watch anime and travel vlogs.
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 You can contact me at any time at <a href="mailto:farasataliazeemi1@gmail.com">farasataliazeemi1@gmail.com</a>. I'll try to respond ASAP!!
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Learn about new technologies.
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Watch movies and travel vlogs.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 You can contact me at any time at <a href="mailto:fatima37081@gmail.com">AzeemiFatima</a>. I'll try to respond ASAP!!
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: I want to visit every country on this planet.
 
 <br />
