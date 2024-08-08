@@ -3,14 +3,14 @@
 <br />
 
 <p align="center" height="300px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5500&pause=1000&color=F7942B&center=true&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Farasat+Ali;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Web3+Developer;%E2%9A%9B%EF%B8%8F+React+Native+Developer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AWS+%26+Azure;%F0%9F%A4%96+AI+and+Deep+Learning;%E2%9A%A1+Studying+Quantum+Computing" alt="Hey There! I am Farasat Ali, Full Stack Web Developer, React Native Developer, Knowledgeable in AWS & Azure, AI and Deep Learning, Studying Quantum Computing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5500&pause=1000&color=F7942B&center=true&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Fatima+Azeemi;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Front+End+Developer;%E2%9A%9B%EF%B8%8F+React.js+Developer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AI+and+Deep+Learning;%E2%9A%A1+Studying+Computer+Science" alt="Hey There! I am Fatima Azeemi, Front End Web Developer, React.js Developer, Knowledgeable in AI and Deep Learning, Studying Computer Science" />
 <p/>
 
-<!-- ![Profile Views](https://gpvc.arturio.dev/faraasat) -->  
+<!-- ![Profile Views](https://gpvc.arturio.dev/fatima22234) -->  
 
 <p align="center" height="300px">
-  <a href="https://github.com/faraasat">
-    <img src="https://komarev.com/ghpvc/?username=faraasat&style=for-the-badge" />
+  <a href="https://github.com/fatima22234">
+    <img src="https://komarev.com/ghpvc/?username=fatima22234&style=for-the-badge" />
   </a>
 </p>
 
@@ -98,25 +98,25 @@
 <hr />
 <br />
 
-## 🤙 Connect with Me:
+<!--## 🤙 Connect with Me:
 
 <br />
 
-/*<p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/faraasat/"><img src="https://img.shields.io/badge/-Farasat%20Ali-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.farasat.me/"><img src="https://img.shields.io/badge/-My%20Portfolio-FCA502?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://faraasat.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="mailto:farasataliazeemi1@gmail.com"><img src="https://img.shields.io/badge/-farasataliazeemi1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/farasat_ali_azeemi/"><img src="https://img.shields.io/badge/-@farasat_ali_azeemi-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/FarasatAliAzeemi"><img src="https://img.shields.io/badge/-Farasat%20Ali-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;
-</p>*/
+</p>
 
 <br />
 <hr />
-<br />
+<br />-->
 
 ## 🍀 My Activity:
 
 <br />
 
-<img src="https://github.com/faraasat/faraasat/blob/main/profile-3d-contrib/profile-night-rainbow.svg"></img>
+<img src="https://github.com/fatima22234/fatima22234/blob/main/profile-3d-contrib/profile-night-rainbow.svg"></img>
