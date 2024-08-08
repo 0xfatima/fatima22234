@@ -57,10 +57,6 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rust
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/solidity-icon.svg" alt="icon" width="65" height="65" />
       <br>Solidity
     </td>
@@ -72,11 +68,11 @@
 </table>
 -->
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,solidity,rust,webassembly&theme=dark" />
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react,next,gatsby,nodejs,bun,express,nest,fastapi,flask,redux,tensorflow,pytorch&theme=dark" />
-<img src="https://skillicons.dev/icons?i=aws,azure,jenkins,docker,kubernetes,vercel,netlify,git,github,nginx&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,graphql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,solidity,webassembly&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark" />
 
 <br />
 <hr />
@@ -87,14 +83,14 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/faraasat">
-    <img src="https://github-readme-stats.vercel.app/api?username=faraasat&count_private=true&show_icons=true&theme=react" alt="About Farasat Ali Coding Style" />
-    <img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faraasat&theme=react"/>
+  <a href="https://github.com/fatima22234/">
+    <img src="https://github-readme-stats.vercel.app/api?username=fatima22234&count_private=true&show_icons=true&theme=react" alt="About Fatima Azeemi Coding Style" />
+    <img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima22234&theme=react"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/faraasat">
-    <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraasat&layout=compact&langs_count=8&theme=jolly" alt="Farasat Ali's most used languages!" />
+    <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima22234&layout=compact&langs_count=8&theme=jolly" alt="Fatima Azeemi's most used languages!" />
   </a>
 </p>
 
@@ -106,14 +102,14 @@
 
 <br />
 
-<p align="center">
+/*<p align="center">
   <a href="https://www.linkedin.com/in/faraasat/"><img src="https://img.shields.io/badge/-Farasat%20Ali-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.farasat.me/"><img src="https://img.shields.io/badge/-My%20Portfolio-FCA502?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://faraasat.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="mailto:farasataliazeemi1@gmail.com"><img src="https://img.shields.io/badge/-farasataliazeemi1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/farasat_ali_azeemi/"><img src="https://img.shields.io/badge/-@farasat_ali_azeemi-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/FarasatAliAzeemi"><img src="https://img.shields.io/badge/-Farasat%20Ali-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;
-</p>
+</p>*/
 
 <br />
 <hr />
