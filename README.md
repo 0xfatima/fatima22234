@@ -9,8 +9,8 @@
 <!-- ![Profile Views](https://gpvc.arturio.dev/fatima22234) -->  
 
 <p align="center" height="300px">
-  <a href="https://github.com/fatima22234">
-    <img src="https://komarev.com/ghpvc/?username=fatima22234&style=for-the-badge" />
+  <a href="https://github.com/0xfatima">
+    <img src="https://komarev.com/ghpvc/?username=0xfatima&style=for-the-badge" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,solidity,webassembly&theme=dark" />
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mui&theme=dark" />
 <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,pytorch&theme=dark" />
-<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github&theme=dark" />
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark" />
 
 <br />
@@ -83,14 +83,14 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/fatima22234/">
-    <img src="https://github-readme-stats.vercel.app/api?username=fatima22234&count_private=true&show_icons=true&theme=react" alt="About Fatima Azeemi Coding Style" />
-    <img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima22234&theme=react"/>
+  <a href="https://github.com/0xfatima/">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xfatima&count_private=true&show_icons=true&theme=react" alt="About Fatima Azeemi Coding Style" />
+    <img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfatima&theme=react"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/faraasat">
-    <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima22234&layout=compact&langs_count=8&theme=jolly" alt="Fatima Azeemi's most used languages!" />
+  <a href="https://github.com/0xfatima">
+    <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfatima&layout=compact&langs_count=8&theme=jolly" alt="Fatima Azeemi's most used languages!" />
   </a>
 </p>
 
@@ -119,4 +119,4 @@
 
 <br />
 
-<img src="https://github.com/fatima22234/fatima22234/blob/main/profile-3d-contrib/profile-night-rainbow.svg"></img>-->
+<img src="https://github.com/0xfatima/0xfatima/blob/main/profile-3d-contrib/profile-night-rainbow.svg"></img>-->
